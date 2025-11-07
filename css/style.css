@@ -3,3 +3,114 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+.header {
+    background-color: lightblue;
+    display: flex;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    height: 100%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.container-d {
+    width: 800px;
+    margin: 0 auto;
+    height: 100%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    display: flex;
+}
+
+.section1 {
+    background-color: lightblue;
+    width: 100%;
+    height: 50px;
+}
+
+.bg-sandy-brown {
+    background-color: sandybrown;
+    margin-top: -21px;
+    padding-top: 15px;
+}
+
+.section2 {
+    background-color: navy;
+    width: 100%
+}
+
+
+.section4 {
+    background-color: lightgray;
+
+}
+
+.section6 {
+    background-color: lightgrey;
+}
+
+.bg {
+
+    height: 300px;
+    padding: 180px
+}
+
+.bg-pink {
+    background-color: orchid;
+    height: 300px;
+    padding: 180px
+}
+
+.w-70 {
+    background-color: aqua;
+    height: 300px;
+    width: 70%;
+
+}
+
+.w-30 {
+    background-color: orchid;
+    height: 300px;
+    width: 30%;
+}
+
+.w-100 {
+    height: 600px;
+    width: 100%;
+    background-color: green;
+}
+
+.section7 {
+    background-color: black;
+}
+
+.section8 {
+    background-color: black;
+}
+
+.bg-aquamarine {
+    width: 100%;
+    background-color: aquamarine;
+    height: 40px;
+}
+
+.button-container {
+    justify-content: space-between;
+    display: flex;
+    height: 30px;
+    padding-top: 10px;
+}
+
+.button {
+    background-color: salmon;
+}
+
+.item-container {
+    display: flex;
+    justify-content: space-between;
+}

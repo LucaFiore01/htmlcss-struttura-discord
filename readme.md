@@ -12,27 +12,27 @@
 ## MAIN## 
 
 # HELLO SECTION # (bg color nightblue)
-    -Hs container (color pink) margin 0 auto height
+    -Hs content (color pink) margin 0 auto height
 
 
 
 # SECTION 1 # (bg color white)
-   - Section container1 (margin 0 auto) height
+   - Container Section1 (margin 0 auto) height
      -Section column1-1 (color blue 70%)
      -Section column2-1(color pink 30%)
 
  # SECTION 2 # (bg color lightgrey)
-   - Section container2 (margin 0 auto) height
+   - Container Section2 (margin 0 auto) height
      -Section column1-2 (color pink 30%)
      -Section column2-2 (color blue 70%)
 
 # SECTION 3 # (bg color white)
-  - Section container3 (margin 0 auto) heigt
+  - Container Section3 (margin 0 auto) heigt
      -Section column1-3 (color blue 70%)
      -Section column2-3 (color pink 30%)
 
 # SECTION 4 # (bg color lightgrey)
-  -Section container4 (color green margin 0 auto) height
+  -Container Section4 (color green margin 0 auto) height
 
 
 
