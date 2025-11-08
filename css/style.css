@@ -37,6 +37,8 @@
     background-color: sandybrown;
     margin-top: -21px;
     padding-top: 15px;
+    padding-top: 7px;
+    padding-bottom: 10px;
 }
 
 .section2 {
@@ -70,13 +72,14 @@
     background-color: aqua;
     height: 300px;
     width: 70%;
-
+    border: 1px dashed black
 }
 
 .w-30 {
     background-color: orchid;
     height: 300px;
     width: 30%;
+    border: 1px dashed black
 }
 
 .w-100 {
@@ -108,9 +111,24 @@
 
 .button {
     background-color: salmon;
+    border: 1px dashed black
 }
 
 .item-container {
     display: flex;
     justify-content: space-between;
+}
+
+.item-container {
+    height: 25px;
+    margin-top: -7px;
+    padding-top: 9px;
+}
+
+.item-link {
+    padding-right: 10px;
+}
+
+.item-link-container {
+    display: flex;
 }
