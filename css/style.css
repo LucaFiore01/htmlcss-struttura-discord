@@ -132,3 +132,19 @@
 .item-link-container {
     display: flex;
 }
+
+.s {
+    background-color: salmon;
+}
+
+.dc {
+    background-color: darkcyan;
+}
+
+.db {
+    background-color: dodgerblue;
+}
+
+.p {
+    background-color: pink;
+}
